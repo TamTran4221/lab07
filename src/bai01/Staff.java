@@ -1,3 +1,4 @@
+package bai01;
 import java.util.Scanner;
 
 public class Staff extends Person{
